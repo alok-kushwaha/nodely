@@ -1,0 +1,1 @@
+DROP POLICY "Authenticated users can view unclaimed devices" ON public.devices;
