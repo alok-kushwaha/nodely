@@ -216,7 +216,7 @@ This project is open source and available under the MIT License.
 
 For issues, questions, or suggestions:
 - Open an issue on [GitHub](https://github.com/alok-kushwaha/nodely/issues)
-- Contact: alok-kushwaha
+- Contact: [Alok Kushwaha](https://github.com/alok-kushwaha)
 
 ---
 
